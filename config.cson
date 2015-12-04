@@ -43,7 +43,7 @@
     ]
     audioBeep: false
     themes: [
-      "nucleus-dark-ui"
+      "atom-material-ui"
       "gruvbox"
     ]
     autoHideMenuBar: true
