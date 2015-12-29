@@ -1,5 +1,10 @@
 atom-material-ui
-gruvbox
+gl-light-syntax
+autocomplete-paths
+emmet
+es6-javascript
+polymer-snippets
+wakatime
 atom-beautify
 atom-jade
 file-icons
