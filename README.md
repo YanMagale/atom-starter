@@ -1,6 +1,6 @@
 # atom preferences
 
-My favorites packages, and configurations for the Atom editor.
+My favorites packages, and configurations for the **__Atom__** editor.
 
 ```sh
 # Clone
