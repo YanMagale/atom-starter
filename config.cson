@@ -1,8 +1,8 @@
 "*":
   editor:
     confirmCheckoutHeadRevision: false
-    fontFamily: "Monaco"
-    fontSize: 14
+    fontFamily: ""
+    fontSize: 12
     invisibles: {}
     scrollPastEnd: true
     showIndentGuide: true
@@ -44,7 +44,7 @@
     audioBeep: false
     themes: [
       "atom-material-ui"
-      "gruvbox"
+      "gruvbox-plus-syntax"
     ]
     autoHideMenuBar: true
     ignoredNames: [
