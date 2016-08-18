@@ -1,11 +1,11 @@
-<img src="atom.png" style="float: right">
+![Atom logo](atom.png)
 
 # Atom starter
 
 > https://atom.io
 
- :rocket: My favorites plugins, themes and configurations for the Atom editor. 
-
+:rocket: My favorites plugins, themes and configurations for the Atom editor. 
+ 
 ## How to use?
 
 ```sh
