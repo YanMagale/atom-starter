@@ -9,10 +9,12 @@
 ## How to use?
 
 ```sh
-# clone and open folder
-git clone https://github.com/jjaderg/atom-preferences ~/.atom-preferences
+# Clone the project
+git clone git@github.com:jjaderg/atom-starter.git ~/.atom-starter
+
 # Access folder
-cd .atom-preferences
+cd .atom-starter
+
 # Install preferences
 apm install --packages-file packages.cson
 ```
