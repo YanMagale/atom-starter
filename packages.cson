@@ -19,6 +19,7 @@ expose
 quick-editor
 javascript-snippets
 git-log
+terminal-plus
 stylus
 atom-jade
 atom-handlebars
@@ -30,3 +31,4 @@ atom-material-ui
 atom-material-syntax
 atom-material-syntax-light
 dracula-theme
+native-ui
