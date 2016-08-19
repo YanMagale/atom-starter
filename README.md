@@ -33,7 +33,6 @@ apm install --packages-file packages.cson
     - [Stylelint](https://atom.io/packages/linter-stylelint)
     - [Pylama](https://atom.io/packages/linter-pylama)
 - [Autocomplete Modules](https://atom.io/packages/autocomplete-modules)
-- [Auto Update Packages](https://atom.io/packages/auto-update-packages)
 - [File Icons](https://atom.io/packages/file-icons)
 - [Autoclose Html](https://atom.io/packages/autoclose-html)
 - [Beautify](https://atom.io/packages/atom-beautify)
