@@ -61,3 +61,6 @@ apm install --packages-file packages.cson
 - [Material Syntax Light](https://atom.io/themes/atom-material-syntax-light)
 - [Dracula](https://atom.io/themes/dracula-theme)
 
+## Licence
+
+[MIT License](https://github.com/jjaderg/atom-starter/blob/master/license.md) :copyright: Jader Gomes
