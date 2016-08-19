@@ -6,6 +6,8 @@ emmet
 docblockr
 pigments
 linter
+linter-stylelint
+linter-pylama
 autocomplete-modules
 auto-update-packages
 file-icons
