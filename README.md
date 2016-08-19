@@ -41,3 +41,13 @@ apm install --packages-file packages.cson
 - [Quick Editor](https://atom.io/packages/quick-editor)
 - [Javascript Snippets](https://atom.io/packages/javascript-snippets)
 - [Git Log](https://atom.io/packages/git-log)
+
+### Syntax
+
+- [Stylus](https://atom.io/packages/stylus)
+- [Jade](https://atom.io/packages/atom-jade)
+- [Handlebars](https://atom.io/packages/atom-handlebars)
+- [ReactJS](https://atom.io/packages/react)
+- [Babel](https://atom.io/packages/language-babel)
+- [AngularJS](https://atom.io/packages/angularjs)
+- [VueJS](https://atom.io/packages/language-vue)
