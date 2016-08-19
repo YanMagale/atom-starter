@@ -53,3 +53,11 @@ apm install --packages-file packages.cson
 - [Babel](https://atom.io/packages/language-babel)
 - [AngularJS](https://atom.io/packages/angularjs)
 - [VueJS](https://atom.io/packages/language-vue)
+
+### Themes | UI
+
+- [Material UI](https://atom.io/themes/atom-material-ui)
+- [Material Syntax](https://atom.io/themes/atom-material-syntax)
+- [Material Syntax Light](https://atom.io/themes/atom-material-syntax-light)
+- [Dracula](https://atom.io/themes/dracula-theme)
+
