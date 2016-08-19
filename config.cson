@@ -20,7 +20,6 @@
       "dev-live-reload"
       "encoding-selector"
       "image-view"
-      "language-python"
       "link"
       "metrics"
       "open-on-github"
@@ -30,11 +29,8 @@
       "styleguide"
       "welcome"
       "exception-reporting"
-      "language-clojure"
-      "language-c"
       "keybinding-resolver"
       "language-csharp"
-      "language-go"
       "language-java"
       "language-make"
       "language-objective-c"
@@ -44,7 +40,7 @@
     audioBeep: false
     themes: [
       "atom-material-ui"
-      "gruvbox-plus-syntax"
+      "atom-material-syntax"
     ]
     autoHideMenuBar: true
     ignoredNames: [
