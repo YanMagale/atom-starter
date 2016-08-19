@@ -30,6 +30,8 @@ apm install --packages-file packages.cson
 - [Docblockr](https://atom.io/packages/docblockr)
 - [Pigments](https://atom.io/packages/pigments)
 - [Linter](https://atom.io/packages/linter)
+    - [Stylelint](https://atom.io/packages/linter-stylelint)
+    - [Pylama](https://atom.io/packages/linter-pylama)
 - [Autocomplete Modules](https://atom.io/packages/autocomplete-modules)
 - [Auto Update Packages](https://atom.io/packages/auto-update-packages)
 - [File Icons](https://atom.io/packages/file-icons)
