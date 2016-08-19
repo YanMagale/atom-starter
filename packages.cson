@@ -9,7 +9,6 @@ linter
 linter-stylelint
 linter-pylama
 autocomplete-modules
-auto-update-packages
 file-icons
 autoclose-html
 atom-beautify
@@ -24,7 +23,6 @@ stylus
 atom-jade
 atom-handlebars
 react
-language-babel
 angularjs
 language-vue
 atom-material-ui
