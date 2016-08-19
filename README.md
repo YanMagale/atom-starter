@@ -1,8 +1,8 @@
+[<img src="atom.png" align="right" width="160">](https://atom.io)
+
 # Atom starter
 
 > https://atom.io
-
-[<img src="atom.png" align="right" width="200">](https://atom.io)
 
 :rocket: My favorites plugins, themes and configurations for the Atom editor. 
  
@@ -40,3 +40,4 @@ apm install --packages-file packages.cson
 - [Tabs Exposé](https://atom.io/packages/expose)
 - [Quick Editor](https://atom.io/packages/quick-editor)
 - [Javascript Snippets](https://atom.io/packages/javascript-snippets)
+- [Git Log](https://atom.io/packages/git-log)
