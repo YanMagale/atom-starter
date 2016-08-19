@@ -43,6 +43,7 @@ apm install --packages-file packages.cson
 - [Quick Editor](https://atom.io/packages/quick-editor)
 - [Javascript Snippets](https://atom.io/packages/javascript-snippets)
 - [Git Log](https://atom.io/packages/git-log)
+- [Terminal Plus](https://atom.io/packages/terminal-plus)
 
 ### Syntax
 
@@ -60,6 +61,7 @@ apm install --packages-file packages.cson
 - [Material Syntax](https://atom.io/themes/atom-material-syntax)
 - [Material Syntax Light](https://atom.io/themes/atom-material-syntax-light)
 - [Dracula](https://atom.io/themes/dracula-theme)
+- [Native UI](https://atom.io/themes/native-ui)
 
 ## Licence
 
