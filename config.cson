@@ -1,48 +1,16 @@
 "*":
   editor:
-    confirmCheckoutHeadRevision: false
     fontFamily: ""
     fontSize: 12
-    invisibles: {}
-    scrollPastEnd: true
-    showIndentGuide: true
-    showInvisibles: true
     tabType: "soft"
   core:
     disabledPackages: [
-      "about"
-      "archive-view"
-      "autoflow"
-      "autosave"
-      "background-tips"
-      "bookmarks"
-      "deprecation-cop"
-      "dev-live-reload"
-      "encoding-selector"
-      "image-view"
-      "link"
-      "metrics"
-      "open-on-github"
-      "package-generator"
-      "release-notes"
-      "spell-check"
-      "styleguide"
-      "welcome"
-      "exception-reporting"
-      "keybinding-resolver"
-      "language-csharp"
-      "language-java"
-      "language-make"
-      "language-objective-c"
-      "language-perl"
-      "language-toml"
+        "wrap-guide"
     ]
-    audioBeep: false
     themes: [
-      "atom-material-ui"
+      "tomorrow-ui"
       "atom-material-syntax"
     ]
-    autoHideMenuBar: true
     ignoredNames: [
       "._*"
       ".apm"
@@ -73,24 +41,6 @@
     hideVcsIgnoredFiles: true
   "markdown-preview":
     useGitHubStyle: true
-  "tool-bar":
-    position: "Left"
-  "git-diff":
-    showIconsInEditorGutter: true
-  "file-watcher":
-    promptWhenFileHasChangedOnDisk: false
-  tabs:
-    enableVcsColoring: true
-  "ctags-status":
-    outerScope: true
-  "language-babel": {}
-  "git-plus": {}
-  pigments: {}
-  autoprefixer: {}
   "atom-beautify":
-    js_space_after_anon_function: true
-  "project-manager":
-    closeCurrent: true
-".html.php.text":
   editor:
     tabLength: 4
