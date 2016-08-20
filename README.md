@@ -50,7 +50,6 @@ apm install --packages-file packages.cson
 - [Jade](https://atom.io/packages/atom-jade)
 - [Handlebars](https://atom.io/packages/atom-handlebars)
 - [ReactJS](https://atom.io/packages/react)
-- [Babel](https://atom.io/packages/language-babel)
 - [AngularJS](https://atom.io/packages/angularjs)
 - [VueJS](https://atom.io/packages/language-vue)
 
@@ -61,6 +60,9 @@ apm install --packages-file packages.cson
 - [Material Syntax Light](https://atom.io/themes/atom-material-syntax-light)
 - [Dracula](https://atom.io/themes/dracula-theme)
 - [Native UI](https://atom.io/themes/native-ui)
+- [Tomorrow UI](https://atom.io/packages/language-babel)
+
+You can customize your preferences theme, typography and more using the [config.cson](https://github.com/jjaderg/atom-starter/blob/master/config.cson) file. To learn more, visit the official [documentation](https://atom.io/docs/api/v1.9.8/Config). Feel free to contribute! :satisfied:
 
 ## Licence
 
