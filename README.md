@@ -44,6 +44,8 @@ apm install --packages-file packages.cson
 - [Git Log](https://atom.io/packages/git-log)
 - [Terminal Plus](https://atom.io/packages/terminal-plus)
 - [Git History](https://atom.io/packages/git-history)
+- [Goto Definition](https://atom.io/packages/goto-definition)
+- [Compare Files](https://atom.io/packages/compare-files)
 
 ### Syntax
 
