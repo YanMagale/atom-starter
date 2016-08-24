@@ -4,8 +4,8 @@
 
 > https://atom.io
 
-:rocket: My favorites plugins, themes and configurations for the Atom editor. 
- 
+:rocket: My favorites plugins, themes and configurations for the Atom editor.
+
 ## How to use?
 
 ```sh
@@ -43,6 +43,7 @@ apm install --packages-file packages.cson
 - [Javascript Snippets](https://atom.io/packages/javascript-snippets)
 - [Git Log](https://atom.io/packages/git-log)
 - [Terminal Plus](https://atom.io/packages/terminal-plus)
+- [Git History](https://atom.io/packages/git-history)
 
 ### Syntax
 
